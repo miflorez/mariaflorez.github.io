@@ -4,7 +4,6 @@
     <section id="home">
         <div class="home-content">
             <div class="home-image">
-                <img src="![Headshot_MF_PS](https://github.com/miflorez/mariaflorez.github.io/assets/162073564/929655d2-09c6-49d3-8a69-b44e24db181b)" alt="Maria I. Florez">
             </div>
             <div class="home-text">
                 <h1>Maria I. Florez</h1>
